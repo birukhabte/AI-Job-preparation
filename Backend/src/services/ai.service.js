@@ -211,3 +211,4 @@ ${jobDescription}
 }
 
 module.exports = { generateInterviewReport, generateResumePdf }
+
